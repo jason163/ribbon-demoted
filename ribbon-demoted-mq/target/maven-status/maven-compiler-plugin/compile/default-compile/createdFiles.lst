@@ -1,0 +1,11 @@
+com\yj\amqp\util\MQConstants.class
+com\yj\amqp\config\DeadQueueConfig.class
+com\yj\amqp\config\RabbitTemplateConfig$1ReSendThread.class
+com\yj\amqp\util\RabbitMetaMessage.class
+com\yj\amqp\config\DeadQueueConfig$DeadLetterMessageListener.class
+com\yj\amqp\listener\AbstractMessageListener.class
+com\yj\amqp\sender\RabbitSender$1.class
+com\yj\amqp\sender\RabbitSender.class
+com\yj\amqp\config\RabbitTemplateConfig.class
+com\yj\amqp\config\RabbitConnectionConfig.class
+com\yj\amqp\config\RedisConfig.class

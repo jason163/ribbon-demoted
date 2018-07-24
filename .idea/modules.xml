@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ribbon-demoted.iml" filepath="$PROJECT_DIR$/ribbon-demoted.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ribbon-demoted-config/ribbon-demoted-config.iml" filepath="$PROJECT_DIR$/ribbon-demoted-config/ribbon-demoted-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ribbon-demoted-consumer/ribbon-demoted-consumer.iml" filepath="$PROJECT_DIR$/ribbon-demoted-consumer/ribbon-demoted-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ribbon-demoted-core/ribbon-demoted-core.iml" filepath="$PROJECT_DIR$/ribbon-demoted-core/ribbon-demoted-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ribbon-demoted-eureka/ribbon-demoted-eureka.iml" filepath="$PROJECT_DIR$/ribbon-demoted-eureka/ribbon-demoted-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ribbon-demoted-mq/ribbon-demoted-mq.iml" filepath="$PROJECT_DIR$/ribbon-demoted-mq/ribbon-demoted-mq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ribbon-demoted-provider/ribbon-demoted-provider.iml" filepath="$PROJECT_DIR$/ribbon-demoted-provider/ribbon-demoted-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ribbon-demoted-zuul/ribbon-demoted-zuul.iml" filepath="$PROJECT_DIR$/ribbon-demoted-zuul/ribbon-demoted-zuul.iml" />
+    </modules>
+  </component>
+</project>

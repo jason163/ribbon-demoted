@@ -1,0 +1,9 @@
+com\yj\core\CoreAutoConfiguration.class
+com\yj\core\CoreHeaderInterceptor.class
+com\yj\core\CoreHttpRequestInterceptor.class
+com\yj\zuul\swagger\DocumentationConfig.class
+com\yj\swagger\EnableSwaggerRegister.class
+com\yj\core\DefaultRibbonConfiguration.class
+com\yj\core\LabelAndWeightMetadataRule.class
+com\yj\zuul\EnableZuulSwagger.class
+com\yj\swagger\EnableSwagger.class

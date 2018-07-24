@@ -1,0 +1,2 @@
+#Auto Configure 这里配置了自动配置类就可以不在应用程序入口Import相关配置类
+#org.springframework.boot.autoconfigure.EnableAutoConfiguration=\

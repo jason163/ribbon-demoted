@@ -1,0 +1,18 @@
+#数据库连接字符串配置信息
+mybatis:
+ datasource:
+  mapperLocation: classpath:mapper/*.xml
+  master:
+   url: jdbc:mysql://192.168.60.60:3306/gateway?useUnicode=true&characterEncoding=utf-8&useSSL=false
+   username: root
+   password: 111111
+   driverClassName: com.mysql.jdbc.Driver
+  cluster:
+  - url: jdbc:mysql://192.168.60.60:3306/gateway?useUnicode=true&characterEncoding=utf-8&useSSL=false
+    username: root
+    password: 111111
+    driverClassName: com.mysql.jdbc.Driver
+  - url: jdbc:mysql://192.168.60.60:3306/gateway?useUnicode=true&characterEncoding=utf-8&useSSL=false
+      username: root
+      password: 111111
+      driverClassName: com.mysql.jdbc.Driver
